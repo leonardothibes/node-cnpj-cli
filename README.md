@@ -1,5 +1,7 @@
 # CPF-CLI [![npm](http://img.shields.io/npm/v/node-cnpj-cli.svg)](https://www.npmjs.com/package/node-cnpj-cli) ![Downloads](https://img.shields.io/npm/dm/node-cnpj-cli.svg) [![Build Status](https://secure.travis-ci.org/leonardothibes/node-cnpj-cli.png)](http://travis-ci.org/leonardothibes/node-cnpj-cli) [![Package Quality](http://npm.packagequality.com/shield/node-cnpj-cli.svg)](http://packagequality.com/#?package=node-cnpj-cli) [![License](https://img.shields.io/npm/l/node-cnpj-cli.svg)](LICENSE)
 
+EM DESENVOLVIMENTO. NÃO HÁ NADA FUNCIONAL AQUI, VOLTE OUTRO DIA.
+
 Gerador e validador de CNPJ via linha de comando.
 
 Installation
